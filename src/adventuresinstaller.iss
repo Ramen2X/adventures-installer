@@ -1,7 +1,6 @@
 #define GameName "Adventures on LEGO Island"
-#define GameVersion "Pre-Alpha (December 1996)"
+#define GameVersion "Pre-Alpha (October 1996)"
 #define GamePublisher "Mindscape Inc."
-#define InstallerName "Install {#GameName}"
 
 [Setup]
 ; Core Settings

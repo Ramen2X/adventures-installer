@@ -1,6 +1,6 @@
 # adventures-installer
 
-An installer replacement for the December 1996 pre-alpha build of (Adventures on) LEGO Island, made for modern day operating systems.
+An installer replacement for the October 1996 pre-alpha build of (Adventures on) LEGO Island, made for modern day operating systems.
 
 - Supports Windows Vista+
 - Performs installations and uninstallations
